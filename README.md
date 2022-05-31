@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Talita</h1>
-<h3 align="center">Software development student,a passionate about frontend and design from Brazil.</h3>
+<h1 align="center">Hi, I'm Talita</h1>
+<h3 align="center">Software development student, a passionate about frontend and design from Brazil.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -6,7 +6,7 @@
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
+These are some of the technologies and tools they are learning to work with:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
